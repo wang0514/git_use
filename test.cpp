@@ -1,5 +1,5 @@
 #include<iostream>
-int mian(){
+int main(){
 	cout<<"hello world"<<endl;
 	return 0;
 }
